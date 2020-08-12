@@ -1,4 +1,3 @@
-
 class Appointments {
 
     id: string;
